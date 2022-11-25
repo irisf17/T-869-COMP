@@ -1,5 +1,14 @@
 # Assignment 3
 
+To be noted could not add files to github because they are too large for the github repository, to run code, able to dwl the files from the link below.
+name of files = yolov3-320.cfg
+yolo3-tiny.cfg
+yolo3-tiny.weights
+yolo3.weigths
+
+Link below
+[link to fetch yolo3 files](https://pjreddie.com/darknet/yolo/)
+
 
 - Use the DNN module in OpenCV (in the core library as of v3.4.x) to load a pre-trained network.
 
