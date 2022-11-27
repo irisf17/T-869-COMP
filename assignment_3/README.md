@@ -1,6 +1,6 @@
 # Assignment 3
 
-To be noted could not add files to github because they are too large for the github repository, to run code, able to dwl the files from the link below.
+To be noted I could not add files to github because they are too large for the github repository, to run the code you need to dwl the files from the link below.
 name of files = yolov3-320.cfg
 yolo3-tiny.cfg
 yolo3-tiny.weights
